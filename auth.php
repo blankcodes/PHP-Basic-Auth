@@ -1,5 +1,6 @@
 <?php
   $api_key = '1a2b3c4d5e6f7';   
+  $api_url = 'https://api.sample.com/v2/website/_payments';
   $data_content = array();
   $api_base64_encode = base64_encode($api_key);
 
